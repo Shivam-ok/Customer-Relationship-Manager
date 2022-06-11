@@ -49,6 +49,9 @@ Integrate the web app with the database to fetch data from the backend
 
 The flowchart is as follows:
 
+![Flow Chart of the java project](https://user-images.githubusercontent.com/68122183/173168563-2035b4b3-db1e-4e49-abd5-0a61aa570f76.jpg)
+
+
 Flowchart
 High-Level Approach
 Create a Maven project using spring MVC.
