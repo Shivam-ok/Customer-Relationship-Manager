@@ -336,7 +336,6 @@ Else keep the WAR file on the tomcat webapps folder and click on start.bat file 
 Deploy web application through Tomcat
 Write down the web URL and start your web application.
 
-https://localhost:<port number>/<home page name>.html/
 Congratulations!!! Your application is running successfully!
 
 References
