@@ -2,6 +2,9 @@
 ![Screenshot (182)](https://user-images.githubusercontent.com/68122183/173167766-dfc90155-e949-433d-abf0-d1d85e7b6cda.png)
 
 OVERVIEW
+<img width="705" alt="58762226-c167d580-8556-11e9-8e34-67a7660bd0d3" src="https://user-images.githubusercontent.com/68122183/173290948-be92804e-eec1-4376-b9bf-e5f47e0a5d93.png">
+
+[ME_PROJECT_CRM_SPRING.pdf](https://github.com/Shivam-ok/Customer-Relationship-Manager/files/8888360/ME_PROJECT_CRM_SPRING.pdf)
 
 Customer Relationship Manager
 
